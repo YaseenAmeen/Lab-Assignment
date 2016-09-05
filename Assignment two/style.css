@@ -1,0 +1,40 @@
+.mount{
+    margin-left: 150px;
+    margin-top: -10px
+}
+.nav{
+    margin-left: 125px;
+    margin-top: -5px;
+}
+.list{
+    margin-top: -60px;
+    word-spacing: 70px;
+    color: white
+}
+ul{
+    list-style: none 
+}
+li{
+    display: inline;
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+    font-size: 15px
+}
+.paras{
+    width: 700px;
+    margin-left: 20px;
+    background-color: white;
+    padding: 10px
+}
+body{
+    margin: 0px auto;
+    width: 1000px;
+    background-image: url(images/background.png);
+    background-position: center center
+}
+a:hover{
+    color: red;
+    text-decoration: none
+}
